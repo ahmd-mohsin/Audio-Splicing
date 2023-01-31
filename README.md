@@ -18,4 +18,4 @@ finally, audio toolbox of MATLAB was used to detect splicing in the audio, the
 number of splices combined, and their duration was recorded. The Machine 
 learning library used with pre trained model was opensoundscape (pytorch 
 models). The pretrained model was RESNET 18.
-![plot](."C:\Users\ahmed\Downloads\SNS.png")
+![SNS](https://user-images.githubusercontent.com/107636242/215844825-5df382a1-3308-45d6-8b98-7c13fbe04bdf.png)
